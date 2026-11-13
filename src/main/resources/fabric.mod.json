@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "skyprofile",
+	"version": "${version}",
+	"name": "SkyProfile Viewer",
+	"description": "In-game SkyBlock profile viewer. Click [View Profile] in a player's social options, or use /skyprofile <name>. Data from SkyCrypt (sky.shiiyu.moe). Not affiliated with or endorsed by Hypixel or SkyCrypt.",
+	"authors": [],
+	"contact": {
+		"homepage": "https://sky.shiiyu.moe/"
+	},
+	"license": "All-Rights-Reserved",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"dev.skyprofile.SkyProfileClient"
+		]
+	},
+	"mixins": [
+		"skyprofile.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.0",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

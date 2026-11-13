@@ -1,0 +1,846 @@
+[
+ {
+  "name": "Inventory",
+  "texture": "https://sky.shiiyu.moe/api/item/CHEST",
+  "items": [
+   {
+    "display_name": "§6Hyperion",
+    "rarity": "LEGENDARY",
+    "texture_path": "https://sky.shiiyu.moe/api/item/HYPERION",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§dTerminator",
+    "rarity": "MYTHIC",
+    "texture_path": "https://sky.shiiyu.moe/api/item/TERMINATOR",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§9Aspect of the End",
+    "rarity": "RARE",
+    "texture_path": "https://sky.shiiyu.moe/api/item/ASPECT_OF_THE_END",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§aEnchanted Diamond",
+    "rarity": "UNCOMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/ENCHANTED_DIAMOND",
+    "Count": 64,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {},
+   {},
+   {},
+   {},
+   {},
+   {
+    "display_name": "§6Large Backpack",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ],
+    "containsItems": [
+     {
+      "display_name": "§6Hyperion",
+      "rarity": "LEGENDARY",
+      "texture_path": "https://sky.shiiyu.moe/api/item/HYPERION",
+      "Count": 1,
+      "lore": [
+       "§7Damage: §c+260",
+       "§7Strength: §c+150",
+       "",
+       "§6§lLEGENDARY SWORD"
+      ]
+     },
+     {
+      "display_name": "§dTerminator",
+      "rarity": "MYTHIC",
+      "texture_path": "https://sky.shiiyu.moe/api/item/TERMINATOR",
+      "Count": 1,
+      "lore": [
+       "§7Damage: §c+260",
+       "§7Strength: §c+150",
+       "",
+       "§6§lLEGENDARY SWORD"
+      ]
+     },
+     {
+      "display_name": "§9Aspect of the End",
+      "rarity": "RARE",
+      "texture_path": "https://sky.shiiyu.moe/api/item/ASPECT_OF_THE_END",
+      "Count": 1,
+      "lore": [
+       "§7Damage: §c+260",
+       "§7Strength: §c+150",
+       "",
+       "§6§lLEGENDARY SWORD"
+      ]
+     },
+     {
+      "display_name": "§6Hyperion",
+      "rarity": "LEGENDARY",
+      "texture_path": "https://sky.shiiyu.moe/api/item/HYPERION",
+      "Count": 1,
+      "lore": [
+       "§7Damage: §c+260",
+       "§7Strength: §c+150",
+       "",
+       "§6§lLEGENDARY SWORD"
+      ]
+     },
+     {
+      "display_name": "§dTerminator",
+      "rarity": "MYTHIC",
+      "texture_path": "https://sky.shiiyu.moe/api/item/TERMINATOR",
+      "Count": 1,
+      "lore": [
+       "§7Damage: §c+260",
+       "§7Strength: §c+150",
+       "",
+       "§6§lLEGENDARY SWORD"
+      ]
+     },
+     {
+      "display_name": "§9Aspect of the End",
+      "rarity": "RARE",
+      "texture_path": "https://sky.shiiyu.moe/api/item/ASPECT_OF_THE_END",
+      "Count": 1,
+      "lore": [
+       "§7Damage: §c+260",
+       "§7Strength: §c+150",
+       "",
+       "§6§lLEGENDARY SWORD"
+      ]
+     },
+     {
+      "display_name": "§6Hyperion",
+      "rarity": "LEGENDARY",
+      "texture_path": "https://sky.shiiyu.moe/api/item/HYPERION",
+      "Count": 1,
+      "lore": [
+       "§7Damage: §c+260",
+       "§7Strength: §c+150",
+       "",
+       "§6§lLEGENDARY SWORD"
+      ]
+     },
+     {
+      "display_name": "§dTerminator",
+      "rarity": "MYTHIC",
+      "texture_path": "https://sky.shiiyu.moe/api/item/TERMINATOR",
+      "Count": 1,
+      "lore": [
+       "§7Damage: §c+260",
+       "§7Strength: §c+150",
+       "",
+       "§6§lLEGENDARY SWORD"
+      ]
+     },
+     {
+      "display_name": "§9Aspect of the End",
+      "rarity": "RARE",
+      "texture_path": "https://sky.shiiyu.moe/api/item/ASPECT_OF_THE_END",
+      "Count": 1,
+      "lore": [
+       "§7Damage: §c+260",
+       "§7Strength: §c+150",
+       "",
+       "§6§lLEGENDARY SWORD"
+      ]
+     }
+    ]
+   },
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {}
+  ]
+ },
+ {
+  "name": "Ender Chest",
+  "texture": "https://sky.shiiyu.moe/api/item/ENDER_CHEST",
+  "items": [
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§fStone",
+    "rarity": "COMMON",
+    "texture_path": "https://sky.shiiyu.moe/api/item/STONE",
+    "Count": 32,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {},
+   {}
+  ]
+ },
+ {
+  "name": "Accessory Bag",
+  "texture": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+  "items": [
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   },
+   {
+    "display_name": "§6Talisman",
+    "rarity": "LEGENDARY",
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "Count": 1,
+    "lore": [
+     "§7Damage: §c+260",
+     "§7Strength: §c+150",
+     "",
+     "§6§lLEGENDARY SWORD"
+    ]
+   }
+  ]
+ }
+]

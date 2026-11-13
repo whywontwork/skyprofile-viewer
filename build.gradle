@@ -1,0 +1,65 @@
+plugins {
+	id 'net.fabricmc.fabric-loom' version "${loom_version}"
+}
+
+base {
+	archivesName = 'skyprofile'
+}
+
+repositories {
+	mavenCentral()
+}
+
+loom {
+	runs {
+		client {
+			// Dev-only: lets the client render the viewer from local mock JSON (see DevHarness).
+			property 'skyprofile.mockDir', file('devdata').absolutePath
+			// `gradlew runClient -PdevShot` screenshots every tab at 1280x720 (auto GUI scale = tightest fit) and quits.
+			if (project.hasProperty('devShot')) {
+				property 'skyprofile.devShot', 'true'
+				programArgs '--width', '1280', '--height', '720'
+			}
+		}
+	}
+}
+
+dependencies {
+	minecraft "com.mojang:minecraft:${project.minecraft_version}"
+	implementation "net.fabricmc:fabric-loader:${project.loader_version}"
+	implementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+
+	// WebP decoder: SkyCrypt serves rendered item icons as WebP, which Minecraft can't read.
+	// Bundled inside the mod jar (jar-in-jar), so nothing extra needs installing.
+	def webp = [
+		"com.twelvemonkeys.imageio:imageio-webp",
+		"com.twelvemonkeys.imageio:imageio-core",
+		"com.twelvemonkeys.imageio:imageio-metadata",
+		"com.twelvemonkeys.common:common-lang",
+		"com.twelvemonkeys.common:common-io",
+		"com.twelvemonkeys.common:common-image",
+	]
+	webp.each {
+		implementation("${it}:${project.twelvemonkeys_version}") { transitive = false }
+		include("${it}:${project.twelvemonkeys_version}")
+	}
+}
+
+processResources {
+	def version = project.version
+	inputs.property "version", version
+
+	filesMatching("fabric.mod.json") {
+		expand "version": version
+	}
+}
+
+tasks.withType(JavaCompile).configureEach {
+	it.options.release = 25
+	it.options.encoding = 'UTF-8'
+}
+
+java {
+	sourceCompatibility = JavaVersion.VERSION_25
+	targetCompatibility = JavaVersion.VERSION_25
+}

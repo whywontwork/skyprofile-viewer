@@ -1,0 +1,224 @@
+{
+ "username": "DevPlayer",
+ "uuid": "0d3e1f2a5b6c4d7e8f9a0b1c2d3e4f50",
+ "profile_id": "00912956-3fd6-42ee-a166-3f649ceaf559",
+ "profile_cute_name": "Raspberry",
+ "game_mode": "",
+ "selected": true,
+ "purse": 12345678.9,
+ "bank": 987654321,
+ "personalBank": 15000000,
+ "joined": 1600000000000,
+ "fairySouls": {
+  "found": 238,
+  "total": 253
+ },
+ "rank": {
+  "rankText": "MVP",
+  "rankColor": "#33aec3",
+  "plusText": "+",
+  "plusColor": "#c43c3c"
+ },
+ "skyblock_level": {
+  "level": 287,
+  "levelWithProgress": 287.42
+ },
+ "skills": {
+  "averageSkillLevel": 41.0,
+  "averageSkillLevelWithProgress": 41.53,
+  "totalSkillXp": 512345678,
+  "skills": {
+   "taming": {
+    "level": 50,
+    "levelCap": 50,
+    "levelWithProgress": 50.0,
+    "maxLevel": 50,
+    "maxed": true,
+    "progress": 0.0,
+    "texture": "",
+    "uncappedLevel": 50,
+    "unlockableLevelWithProgress": 50.0,
+    "xp": 10000000,
+    "xpCurrent": 0,
+    "xpForNext": 4000000
+   },
+   "mining": {
+    "level": 47,
+    "levelCap": 60,
+    "levelWithProgress": 47.62,
+    "maxLevel": 60,
+    "maxed": false,
+    "progress": 0.62,
+    "texture": "",
+    "uncappedLevel": 47,
+    "unlockableLevelWithProgress": 47.62,
+    "xp": 10000000,
+    "xpCurrent": 2480000,
+    "xpForNext": 4000000
+   },
+   "foraging": {
+    "level": 26,
+    "levelCap": 54,
+    "levelWithProgress": 26.3,
+    "maxLevel": 54,
+    "maxed": false,
+    "progress": 0.3,
+    "texture": "",
+    "uncappedLevel": 26,
+    "unlockableLevelWithProgress": 26.3,
+    "xp": 10000000,
+    "xpCurrent": 1200000,
+    "xpForNext": 4000000
+   },
+   "enchanting": {
+    "level": 60,
+    "levelCap": 60,
+    "levelWithProgress": 60,
+    "maxLevel": 60,
+    "maxed": true,
+    "progress": 0,
+    "texture": "",
+    "uncappedLevel": 60,
+    "unlockableLevelWithProgress": 60,
+    "xp": 10000000,
+    "xpCurrent": 0,
+    "xpForNext": 4000000
+   },
+   "carpentry": {
+    "level": 25,
+    "levelCap": 50,
+    "levelWithProgress": 25.8,
+    "maxLevel": 50,
+    "maxed": false,
+    "progress": 0.8,
+    "texture": "",
+    "uncappedLevel": 25,
+    "unlockableLevelWithProgress": 25.8,
+    "xp": 10000000,
+    "xpCurrent": 3200000,
+    "xpForNext": 4000000
+   },
+   "farming": {
+    "level": 34,
+    "levelCap": 50,
+    "levelWithProgress": 34.4,
+    "maxLevel": 60,
+    "maxed": false,
+    "progress": 0.4,
+    "texture": "",
+    "uncappedLevel": 34,
+    "unlockableLevelWithProgress": 34.4,
+    "xp": 10000000,
+    "xpCurrent": 1600000,
+    "xpForNext": 4000000
+   },
+   "combat": {
+    "level": 54,
+    "levelCap": 60,
+    "levelWithProgress": 54.71,
+    "maxLevel": 60,
+    "maxed": false,
+    "progress": 0.71,
+    "texture": "",
+    "uncappedLevel": 54,
+    "unlockableLevelWithProgress": 54.71,
+    "xp": 10000000,
+    "xpCurrent": 2840000,
+    "xpForNext": 4000000
+   },
+   "fishing": {
+    "level": 27,
+    "levelCap": 50,
+    "levelWithProgress": 27.45,
+    "maxLevel": 50,
+    "maxed": false,
+    "progress": 0.45,
+    "texture": "",
+    "uncappedLevel": 27,
+    "unlockableLevelWithProgress": 27.45,
+    "xp": 10000000,
+    "xpCurrent": 1800000,
+    "xpForNext": 4000000
+   },
+   "alchemy": {
+    "level": 24,
+    "levelCap": 50,
+    "levelWithProgress": 24.2,
+    "maxLevel": 50,
+    "maxed": false,
+    "progress": 0.2,
+    "texture": "",
+    "uncappedLevel": 24,
+    "unlockableLevelWithProgress": 24.2,
+    "xp": 10000000,
+    "xpCurrent": 800000,
+    "xpForNext": 4000000
+   },
+   "runecrafting": {
+    "level": 25,
+    "levelCap": 25,
+    "levelWithProgress": 25,
+    "maxLevel": 25,
+    "maxed": true,
+    "progress": 0,
+    "texture": "",
+    "uncappedLevel": 25,
+    "unlockableLevelWithProgress": 25,
+    "xp": 10000000,
+    "xpCurrent": 0,
+    "xpForNext": 4000000
+   },
+   "social": {
+    "level": 12,
+    "levelCap": 25,
+    "levelWithProgress": 12.5,
+    "maxLevel": 25,
+    "maxed": false,
+    "progress": 0.5,
+    "texture": "",
+    "uncappedLevel": 12,
+    "unlockableLevelWithProgress": 12.5,
+    "xp": 10000000,
+    "xpCurrent": 2000000,
+    "xpForNext": 4000000
+   },
+   "hunting": {
+    "level": 8,
+    "levelCap": 25,
+    "levelWithProgress": 8.33,
+    "maxLevel": 25,
+    "maxed": false,
+    "progress": 0.33,
+    "texture": "",
+    "uncappedLevel": 8,
+    "unlockableLevelWithProgress": 8.33,
+    "xp": 10000000,
+    "xpCurrent": 1320000,
+    "xpForNext": 4000000
+   }
+  }
+ },
+ "profiles": [
+  {
+   "profile_id": "00912956-3fd6-42ee-a166-3f649ceaf559",
+   "cute_name": "Raspberry",
+   "game_mode": "",
+   "selected": true
+  },
+  {
+   "profile_id": "11111111-2222-3333-4444-555555555555",
+   "cute_name": "Kiwi",
+   "game_mode": "ironman",
+   "selected": false
+  }
+ ],
+ "members": [
+  {
+   "uuid": "0d3e1f2a5b6c4d7e8f9a0b1c2d3e4f50",
+   "username": "DevPlayer",
+   "removed": false
+  }
+ ],
+ "apiSettings": {},
+ "social": {}
+}

@@ -1,0 +1,1910 @@
+{
+ "gear": {
+  "armor": {
+   "armor": [
+    {
+     "display_name": "§6Necron's Helmet",
+     "rarity": "LEGENDARY",
+     "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    {
+     "display_name": "§6Necron's Chestplate",
+     "rarity": "LEGENDARY",
+     "texture_path": "https://sky.shiiyu.moe/api/item/POWER_WITHER_CHESTPLATE",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    {
+     "display_name": "§6Necron's Leggings",
+     "rarity": "LEGENDARY",
+     "texture_path": "https://sky.shiiyu.moe/api/item/POWER_WITHER_LEGGINGS",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    {
+     "display_name": "§6Necron's Boots",
+     "rarity": "LEGENDARY",
+     "texture_path": "https://sky.shiiyu.moe/api/item/POWER_WITHER_BOOTS",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    }
+   ],
+   "set_name": "Necron's Armor",
+   "set_rarity": "legendary",
+   "stats": {}
+  },
+  "equipment": {
+   "equipment": [
+    {
+     "display_name": "§5Molten Necklace",
+     "rarity": "EPIC",
+     "texture_path": "https://sky.shiiyu.moe/api/item/MOLTEN_NECKLACE",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    {
+     "display_name": "§5Molten Cloak",
+     "rarity": "EPIC",
+     "texture_path": "https://sky.shiiyu.moe/api/item/MOLTEN_CLOAK",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    {
+     "display_name": "§5Molten Belt",
+     "rarity": "EPIC",
+     "texture_path": "https://sky.shiiyu.moe/api/item/MOLTEN_BELT",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    {
+     "display_name": "§5Molten Bracelet",
+     "rarity": "EPIC",
+     "texture_path": "https://sky.shiiyu.moe/api/item/MOLTEN_BRACELET",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    }
+   ],
+   "stats": {}
+  },
+  "weapons": {
+   "weapons": [
+    {
+     "display_name": "§6Hyperion",
+     "rarity": "LEGENDARY",
+     "texture_path": "https://sky.shiiyu.moe/api/item/HYPERION",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    {
+     "display_name": "§dTerminator",
+     "rarity": "MYTHIC",
+     "texture_path": "https://sky.shiiyu.moe/api/item/TERMINATOR",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    {
+     "display_name": "§9Aspect of the End",
+     "rarity": "RARE",
+     "texture_path": "https://sky.shiiyu.moe/api/item/ASPECT_OF_THE_END",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    }
+   ]
+  },
+  "wardrobe": [
+   [
+    {
+     "display_name": "§6Necron's Helmet",
+     "rarity": "LEGENDARY",
+     "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    {
+     "display_name": "§6Necron's Chestplate",
+     "rarity": "LEGENDARY",
+     "texture_path": "https://sky.shiiyu.moe/api/item/POWER_WITHER_CHESTPLATE",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    {
+     "display_name": "§6Necron's Leggings",
+     "rarity": "LEGENDARY",
+     "texture_path": "https://sky.shiiyu.moe/api/item/POWER_WITHER_LEGGINGS",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    {
+     "display_name": "§6Necron's Boots",
+     "rarity": "LEGENDARY",
+     "texture_path": "https://sky.shiiyu.moe/api/item/POWER_WITHER_BOOTS",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    }
+   ],
+   [
+    {
+     "display_name": "§5Shadow Assassin Helmet",
+     "rarity": "EPIC",
+     "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+     "Count": 1,
+     "lore": [
+      "§7Damage: §c+260",
+      "§7Strength: §c+150",
+      "",
+      "§6§lLEGENDARY SWORD"
+     ]
+    },
+    null,
+    null,
+    null
+   ]
+  ]
+ },
+ "pets": {
+  "pets": [
+   {
+    "type": "ENDER_DRAGON",
+    "display_name": "§6Ender Dragon",
+    "rarity": "LEGENDARY",
+    "level": 100,
+    "maxLevel": 100,
+    "active": true,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_0",
+    "display_name": "§6Pet 0",
+    "rarity": "LEGENDARY",
+    "level": 42,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_1",
+    "display_name": "§5Pet 1",
+    "rarity": "EPIC",
+    "level": 20,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_2",
+    "display_name": "§dPet 2",
+    "rarity": "MYTHIC",
+    "level": 51,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_3",
+    "display_name": "§9Pet 3",
+    "rarity": "RARE",
+    "level": 84,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_4",
+    "display_name": "§aPet 4",
+    "rarity": "UNCOMMON",
+    "level": 7,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_5",
+    "display_name": "§6Pet 5",
+    "rarity": "LEGENDARY",
+    "level": 10,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_6",
+    "display_name": "§5Pet 6",
+    "rarity": "EPIC",
+    "level": 69,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_7",
+    "display_name": "§dPet 7",
+    "rarity": "MYTHIC",
+    "level": 13,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_8",
+    "display_name": "§9Pet 8",
+    "rarity": "RARE",
+    "level": 47,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_9",
+    "display_name": "§aPet 9",
+    "rarity": "UNCOMMON",
+    "level": 75,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_10",
+    "display_name": "§6Pet 10",
+    "rarity": "LEGENDARY",
+    "level": 8,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_11",
+    "display_name": "§5Pet 11",
+    "rarity": "EPIC",
+    "level": 65,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_12",
+    "display_name": "§dPet 12",
+    "rarity": "MYTHIC",
+    "level": 28,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_13",
+    "display_name": "§9Pet 13",
+    "rarity": "RARE",
+    "level": 5,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_14",
+    "display_name": "§aPet 14",
+    "rarity": "UNCOMMON",
+    "level": 12,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_15",
+    "display_name": "§6Pet 15",
+    "rarity": "LEGENDARY",
+    "level": 56,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_16",
+    "display_name": "§5Pet 16",
+    "rarity": "EPIC",
+    "level": 54,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_17",
+    "display_name": "§dPet 17",
+    "rarity": "MYTHIC",
+    "level": 9,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_18",
+    "display_name": "§9Pet 18",
+    "rarity": "RARE",
+    "level": 31,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_19",
+    "display_name": "§aPet 19",
+    "rarity": "UNCOMMON",
+    "level": 12,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_20",
+    "display_name": "§6Pet 20",
+    "rarity": "LEGENDARY",
+    "level": 71,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_21",
+    "display_name": "§5Pet 21",
+    "rarity": "EPIC",
+    "level": 55,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_22",
+    "display_name": "§dPet 22",
+    "rarity": "MYTHIC",
+    "level": 8,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_23",
+    "display_name": "§9Pet 23",
+    "rarity": "RARE",
+    "level": 73,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_24",
+    "display_name": "§aPet 24",
+    "rarity": "UNCOMMON",
+    "level": 16,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_25",
+    "display_name": "§6Pet 25",
+    "rarity": "LEGENDARY",
+    "level": 29,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_26",
+    "display_name": "§5Pet 26",
+    "rarity": "EPIC",
+    "level": 81,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_27",
+    "display_name": "§dPet 27",
+    "rarity": "MYTHIC",
+    "level": 81,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_28",
+    "display_name": "§9Pet 28",
+    "rarity": "RARE",
+    "level": 75,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_29",
+    "display_name": "§aPet 29",
+    "rarity": "UNCOMMON",
+    "level": 8,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_30",
+    "display_name": "§6Pet 30",
+    "rarity": "LEGENDARY",
+    "level": 74,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_31",
+    "display_name": "§5Pet 31",
+    "rarity": "EPIC",
+    "level": 75,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_32",
+    "display_name": "§dPet 32",
+    "rarity": "MYTHIC",
+    "level": 51,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_33",
+    "display_name": "§9Pet 33",
+    "rarity": "RARE",
+    "level": 7,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_34",
+    "display_name": "§aPet 34",
+    "rarity": "UNCOMMON",
+    "level": 29,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_35",
+    "display_name": "§6Pet 35",
+    "rarity": "LEGENDARY",
+    "level": 6,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_36",
+    "display_name": "§5Pet 36",
+    "rarity": "EPIC",
+    "level": 72,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_37",
+    "display_name": "§dPet 37",
+    "rarity": "MYTHIC",
+    "level": 18,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_38",
+    "display_name": "§9Pet 38",
+    "rarity": "RARE",
+    "level": 38,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   },
+   {
+    "type": "PET_39",
+    "display_name": "§aPet 39",
+    "rarity": "UNCOMMON",
+    "level": 54,
+    "maxLevel": 100,
+    "active": false,
+    "texture_path": "/api/head/93a1b830399ab432a5178fdaf3939b24bf25c724a66be947296c503352bc380d",
+    "lore": [
+     "§8Combat Pet",
+     "",
+     "§7Strength: §c+50",
+     "§7Crit Damage: §9+30",
+     "",
+     "§6Ability",
+     "§7Deal §a+20% §7more damage to zombies and other undead creatures.",
+     "",
+     "§b§lMAX LEVEL"
+    ],
+    "stats": {}
+   }
+  ],
+  "amount": 41,
+  "total": 120,
+  "totalCandyUsed": 12,
+  "petScore": {
+   "amount": 210
+  }
+ },
+ "dungeons": {
+  "level": {
+   "level": 48,
+   "levelCap": 50,
+   "levelWithProgress": 48.37,
+   "maxLevel": 50,
+   "maxed": false,
+   "progress": 0.37,
+   "texture": "",
+   "uncappedLevel": 48,
+   "unlockableLevelWithProgress": 48.37,
+   "xp": 10000000,
+   "xpCurrent": 1480000,
+   "xpForNext": 4000000
+  },
+  "classes": {
+   "selectedClass": "mage",
+   "classAverage": 37,
+   "classAverageWithProgress": 37.4,
+   "classes": {
+    "healer": {
+     "level": 32,
+     "levelCap": 50,
+     "levelWithProgress": 32.4,
+     "maxLevel": 50,
+     "maxed": false,
+     "progress": 0.4,
+     "texture": "",
+     "uncappedLevel": 32,
+     "unlockableLevelWithProgress": 32.4,
+     "xp": 10000000,
+     "xpCurrent": 1600000,
+     "xpForNext": 4000000
+    },
+    "mage": {
+     "level": 45,
+     "levelCap": 50,
+     "levelWithProgress": 45.4,
+     "maxLevel": 50,
+     "maxed": false,
+     "progress": 0.4,
+     "texture": "",
+     "uncappedLevel": 45,
+     "unlockableLevelWithProgress": 45.4,
+     "xp": 10000000,
+     "xpCurrent": 1600000,
+     "xpForNext": 4000000
+    },
+    "berserk": {
+     "level": 38,
+     "levelCap": 50,
+     "levelWithProgress": 38.4,
+     "maxLevel": 50,
+     "maxed": false,
+     "progress": 0.4,
+     "texture": "",
+     "uncappedLevel": 38,
+     "unlockableLevelWithProgress": 38.4,
+     "xp": 10000000,
+     "xpCurrent": 1600000,
+     "xpForNext": 4000000
+    },
+    "archer": {
+     "level": 41,
+     "levelCap": 50,
+     "levelWithProgress": 41.4,
+     "maxLevel": 50,
+     "maxed": false,
+     "progress": 0.4,
+     "texture": "",
+     "uncappedLevel": 41,
+     "unlockableLevelWithProgress": 41.4,
+     "xp": 10000000,
+     "xpCurrent": 1600000,
+     "xpForNext": 4000000
+    },
+    "tank": {
+     "level": 29,
+     "levelCap": 50,
+     "levelWithProgress": 29.4,
+     "maxLevel": 50,
+     "maxed": false,
+     "progress": 0.4,
+     "texture": "",
+     "uncappedLevel": 29,
+     "unlockableLevelWithProgress": 29.4,
+     "xp": 10000000,
+     "xpCurrent": 1600000,
+     "xpForNext": 4000000
+    }
+   }
+  },
+  "catacombs": [
+   {
+    "name": "Entrance",
+    "texture": "",
+    "stats": {
+     "times_played": 83,
+     "tier_completions": 281,
+     "best_score": 280,
+     "fastest_time": 499323,
+     "fastest_time_s": 330866,
+     "fastest_time_s_plus": 346868,
+     "mobs_killed": 6922,
+     "watcher_kills": 155,
+     "most_damage": {
+      "class": "mage",
+      "value": 313244210
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   },
+   {
+    "name": "Floor 1",
+    "texture": "",
+    "stats": {
+     "times_played": 302,
+     "tier_completions": 332,
+     "best_score": 300,
+     "fastest_time": 395243,
+     "fastest_time_s": 275540,
+     "fastest_time_s_plus": 343587,
+     "mobs_killed": 3057,
+     "watcher_kills": 627,
+     "most_damage": {
+      "class": "mage",
+      "value": 32998134
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   },
+   {
+    "name": "Floor 2",
+    "texture": "",
+    "stats": {
+     "times_played": 326,
+     "tier_completions": 110,
+     "best_score": 250,
+     "fastest_time": 478774,
+     "fastest_time_s": 362090,
+     "fastest_time_s_plus": 282351,
+     "mobs_killed": 16256,
+     "watcher_kills": 649,
+     "most_damage": {
+      "class": "mage",
+      "value": 496768816
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   },
+   {
+    "name": "Floor 3",
+    "texture": "",
+    "stats": {
+     "times_played": 242,
+     "tier_completions": 190,
+     "best_score": 317,
+     "fastest_time": 330247,
+     "fastest_time_s": 458241,
+     "fastest_time_s_plus": 247124,
+     "mobs_killed": 8998,
+     "watcher_kills": 133,
+     "most_damage": {
+      "class": "mage",
+      "value": 309391381
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   },
+   {
+    "name": "Floor 4",
+    "texture": "",
+    "stats": {
+     "times_played": 163,
+     "tier_completions": 273,
+     "best_score": 250,
+     "fastest_time": 380080,
+     "fastest_time_s": 441219,
+     "fastest_time_s_plus": 317659,
+     "mobs_killed": 10435,
+     "watcher_kills": 673,
+     "most_damage": {
+      "class": "mage",
+      "value": 40299417
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   },
+   {
+    "name": "Floor 5",
+    "texture": "",
+    "stats": {
+     "times_played": 70,
+     "tier_completions": 267,
+     "best_score": 250,
+     "fastest_time": 286487,
+     "fastest_time_s": 448479,
+     "fastest_time_s_plus": 289667,
+     "mobs_killed": 5980,
+     "watcher_kills": 550,
+     "most_damage": {
+      "class": "mage",
+      "value": 227397581
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   },
+   {
+    "name": "Floor 6",
+    "texture": "",
+    "stats": {
+     "times_played": 30,
+     "tier_completions": 347,
+     "best_score": 280,
+     "fastest_time": 492592,
+     "fastest_time_s": 400215,
+     "fastest_time_s_plus": 282247,
+     "mobs_killed": 12145,
+     "watcher_kills": 761,
+     "most_damage": {
+      "class": "mage",
+      "value": 189000591
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   },
+   {
+    "name": "Floor 7",
+    "texture": "",
+    "stats": {
+     "times_played": 314,
+     "tier_completions": 259,
+     "best_score": 250,
+     "fastest_time": 236051,
+     "fastest_time_s": 470192,
+     "fastest_time_s_plus": 224535,
+     "mobs_killed": 9845,
+     "watcher_kills": 535,
+     "most_damage": {
+      "class": "mage",
+      "value": 375221608
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   }
+  ],
+  "master_catacombs": [
+   {
+    "name": "Floor 1",
+    "texture": "",
+    "stats": {
+     "times_played": 302,
+     "tier_completions": 332,
+     "best_score": 300,
+     "fastest_time": 395243,
+     "fastest_time_s": 275540,
+     "fastest_time_s_plus": 343587,
+     "mobs_killed": 3057,
+     "watcher_kills": 627,
+     "most_damage": {
+      "class": "mage",
+      "value": 32998134
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   },
+   {
+    "name": "Floor 2",
+    "texture": "",
+    "stats": {
+     "times_played": 326,
+     "tier_completions": 110,
+     "best_score": 250,
+     "fastest_time": 478774,
+     "fastest_time_s": 362090,
+     "fastest_time_s_plus": 282351,
+     "mobs_killed": 16256,
+     "watcher_kills": 649,
+     "most_damage": {
+      "class": "mage",
+      "value": 496768816
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   },
+   {
+    "name": "Floor 3",
+    "texture": "",
+    "stats": {
+     "times_played": 242,
+     "tier_completions": 190,
+     "best_score": 317,
+     "fastest_time": 330247,
+     "fastest_time_s": 458241,
+     "fastest_time_s_plus": 247124,
+     "mobs_killed": 8998,
+     "watcher_kills": 133,
+     "most_damage": {
+      "class": "mage",
+      "value": 309391381
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   },
+   {
+    "name": "Floor 4",
+    "texture": "",
+    "stats": {
+     "times_played": 163,
+     "tier_completions": 273,
+     "best_score": 250,
+     "fastest_time": 380080,
+     "fastest_time_s": 441219,
+     "fastest_time_s_plus": 317659,
+     "mobs_killed": 10435,
+     "watcher_kills": 673,
+     "most_damage": {
+      "class": "mage",
+      "value": 40299417
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   },
+   {
+    "name": "Floor 5",
+    "texture": "",
+    "stats": {
+     "times_played": 70,
+     "tier_completions": 267,
+     "best_score": 250,
+     "fastest_time": 286487,
+     "fastest_time_s": 448479,
+     "fastest_time_s_plus": 289667,
+     "mobs_killed": 5980,
+     "watcher_kills": 550,
+     "most_damage": {
+      "class": "mage",
+      "value": 227397581
+     }
+    },
+    "best_run": {
+     "timestamp": 1700000000000,
+     "grade": "S+",
+     "elapsed_time": 321000,
+     "dungeon_class": "mage",
+     "secrets_found": 34,
+     "deaths": 0
+    }
+   }
+  ],
+  "stats": {
+   "secrets": {
+    "found": 12345,
+    "secretsPerRun": 8.7
+   },
+   "highestFloorBeatenNormal": 7,
+   "highestFloorBeatenMaster": 5,
+   "bloodMobKills": 23456
+  }
+ },
+ "slayers": {
+  "data": {
+   "zombie": {
+    "name": "Revenant Horror",
+    "texture": "",
+    "level": {
+     "level": 9,
+     "maxLevel": 9,
+     "maxed": false,
+     "xp": 1200000,
+     "xpForNext": 0
+    },
+    "kills": {
+     "1": 10,
+     "2": 50,
+     "3": 200,
+     "4": 800,
+     "5": 40,
+     "total": 1100
+    }
+   },
+   "spider": {
+    "name": "Tarantula Broodfather",
+    "texture": "",
+    "level": {
+     "level": 8,
+     "maxLevel": 9,
+     "maxed": false,
+     "xp": 450000,
+     "xpForNext": 0
+    },
+    "kills": {
+     "1": 10,
+     "2": 50,
+     "3": 200,
+     "4": 800,
+     "5": 40,
+     "total": 1100
+    }
+   },
+   "wolf": {
+    "name": "Sven Packmaster",
+    "texture": "",
+    "level": {
+     "level": 8,
+     "maxLevel": 9,
+     "maxed": false,
+     "xp": 420000,
+     "xpForNext": 0
+    },
+    "kills": {
+     "1": 10,
+     "2": 50,
+     "3": 200,
+     "4": 800,
+     "5": 40,
+     "total": 1100
+    }
+   },
+   "enderman": {
+    "name": "Voidgloom Seraph",
+    "texture": "",
+    "level": {
+     "level": 6,
+     "maxLevel": 9,
+     "maxed": false,
+     "xp": 60000,
+     "xpForNext": 0
+    },
+    "kills": {
+     "1": 10,
+     "2": 50,
+     "3": 200,
+     "4": 800,
+     "5": 40,
+     "total": 1100
+    }
+   },
+   "blaze": {
+    "name": "Inferno Demonlord",
+    "texture": "",
+    "level": {
+     "level": 4,
+     "maxLevel": 9,
+     "maxed": false,
+     "xp": 2000,
+     "xpForNext": 0
+    },
+    "kills": {
+     "1": 10,
+     "2": 50,
+     "3": 200,
+     "4": 800,
+     "5": 40,
+     "total": 1100
+    }
+   },
+   "vampire": {
+    "name": "Riftstalker Bloodfiend",
+    "texture": "",
+    "level": {
+     "level": 3,
+     "maxLevel": 5,
+     "maxed": false,
+     "xp": 300,
+     "xpForNext": 0
+    },
+    "kills": {
+     "1": 10,
+     "2": 50,
+     "3": 200,
+     "4": 800,
+     "5": 40,
+     "total": 1100
+    }
+   }
+  },
+  "totalSlayerExp": 2132300,
+  "stats": {}
+ },
+ "collections": {
+  "categories": {
+   "FARMING": {
+    "name": "Farming",
+    "texture": "https://sky.shiiyu.moe/api/item/GOLD_HOE",
+    "maxTiers": 12,
+    "totalTiers": 20,
+    "items": [
+     {
+      "id": "WHEAT",
+      "name": "Wheat",
+      "texture": "https://sky.shiiyu.moe/api/item/WHEAT",
+      "tier": 4,
+      "maxTier": 12,
+      "amount": 1018864,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "CARROT_ITEM",
+      "name": "Carrot",
+      "texture": "https://sky.shiiyu.moe/api/item/CARROT_ITEM",
+      "tier": 7,
+      "maxTier": 12,
+      "amount": 7477611,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "POTATO_ITEM",
+      "name": "Potato",
+      "texture": "https://sky.shiiyu.moe/api/item/POTATO_ITEM",
+      "tier": 7,
+      "maxTier": 12,
+      "amount": 6473506,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "PUMPKIN",
+      "name": "Pumpkin",
+      "texture": "https://sky.shiiyu.moe/api/item/PUMPKIN",
+      "tier": 8,
+      "maxTier": 12,
+      "amount": 379543,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "MELON",
+      "name": "Melon",
+      "texture": "https://sky.shiiyu.moe/api/item/MELON",
+      "tier": 10,
+      "maxTier": 12,
+      "amount": 5964698,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "SEEDS",
+      "name": "Seeds",
+      "texture": "https://sky.shiiyu.moe/api/item/SEEDS",
+      "tier": 5,
+      "maxTier": 12,
+      "amount": 1965541,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "MUSHROOM_COLLECTION",
+      "name": "Mushroom",
+      "texture": "https://sky.shiiyu.moe/api/item/MUSHROOM_COLLECTION",
+      "tier": 10,
+      "maxTier": 12,
+      "amount": 990091,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "INK_SACK:3",
+      "name": "Cocoa Beans",
+      "texture": "https://sky.shiiyu.moe/api/item/INK_SACK:3",
+      "tier": 6,
+      "maxTier": 12,
+      "amount": 4823307,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "CACTUS",
+      "name": "Cactus",
+      "texture": "https://sky.shiiyu.moe/api/item/CACTUS",
+      "tier": 5,
+      "maxTier": 12,
+      "amount": 4155287,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "SUGAR_CANE",
+      "name": "Sugar Cane",
+      "texture": "https://sky.shiiyu.moe/api/item/SUGAR_CANE",
+      "tier": 9,
+      "maxTier": 12,
+      "amount": 6560047,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "FEATHER",
+      "name": "Feather",
+      "texture": "https://sky.shiiyu.moe/api/item/FEATHER",
+      "tier": 10,
+      "maxTier": 12,
+      "amount": 1352929,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "LEATHER",
+      "name": "Leather",
+      "texture": "https://sky.shiiyu.moe/api/item/LEATHER",
+      "tier": 5,
+      "maxTier": 12,
+      "amount": 7537114,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "PORK",
+      "name": "Raw Porkchop",
+      "texture": "https://sky.shiiyu.moe/api/item/PORK",
+      "tier": 9,
+      "maxTier": 12,
+      "amount": 4662367,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "RAW_CHICKEN",
+      "name": "Raw Chicken",
+      "texture": "https://sky.shiiyu.moe/api/item/RAW_CHICKEN",
+      "tier": 5,
+      "maxTier": 12,
+      "amount": 7223954,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "MUTTON",
+      "name": "Mutton",
+      "texture": "https://sky.shiiyu.moe/api/item/MUTTON",
+      "tier": 11,
+      "maxTier": 12,
+      "amount": 4672130,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "RABBIT",
+      "name": "Raw Rabbit",
+      "texture": "https://sky.shiiyu.moe/api/item/RABBIT",
+      "tier": 9,
+      "maxTier": 12,
+      "amount": 6020181,
+      "totalAmount": 0,
+      "amounts": []
+     },
+     {
+      "id": "NETHER_STALK",
+      "name": "Nether Wart",
+      "texture": "https://sky.shiiyu.moe/api/item/NETHER_STALK",
+      "tier": 9,
+      "maxTier": 12,
+      "amount": 3872367,
+      "totalAmount": 0,
+      "amounts": []
+     }
+    ]
+   },
+   "MINING": {
+    "name": "Mining",
+    "texture": "https://sky.shiiyu.moe/api/item/STONE_PICKAXE",
+    "maxTiers": 5,
+    "totalTiers": 25,
+    "items": []
+   },
+   "COMBAT": {
+    "name": "Combat",
+    "texture": "https://sky.shiiyu.moe/api/item/STONE_SWORD",
+    "maxTiers": 8,
+    "totalTiers": 11,
+    "items": []
+   }
+  },
+  "maxedCollections": 25,
+  "totalCollections": 56
+ },
+ "accessories": {
+  "magicalPower": {
+   "total": 1234
+  },
+  "selectedPower": "bloody",
+  "unique": 78
+ },
+ "misc": {
+  "kills": {
+   "total_kills": 123456,
+   "total_deaths": 789
+  },
+  "damage": {
+   "highest_critical_damage": 12345678
+  }
+ },
+ "bestiary": {
+  "level": 28.4
+ },
+ "crimsonIsle": {
+  "kuudra": {
+   "totalKills": 321
+  },
+  "factions": {
+   "selectedFaction": "mages"
+  }
+ },
+ "skills": {
+  "mining": {
+   "level": {
+    "level": 10
+   },
+   "powder": {
+    "mithril": {
+     "total": 12000000
+    },
+    "gemstone": {
+     "total": 25000000
+    },
+    "glacite": {
+     "total": 4000000
+    }
+   }
+  }
+ },
+ "minions": {
+  "minionsSlots": {
+   "current": 26
+  },
+  "totalTiers": 612
+ },
+ "rift": {
+  "motes": {
+   "lifetime": 1500000
+  }
+ }
+}

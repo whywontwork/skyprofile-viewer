@@ -1,0 +1,50 @@
+{
+ "normal": {
+  "networth": 1361348608,
+  "unsoulboundNetworth": 1100000000,
+  "purse": 12345678,
+  "bank": 987654321,
+  "personalBank": 15000000,
+  "types": {
+   "armor": {
+    "total": 420000000.0,
+    "unsoulboundTotal": 336000000.0
+   },
+   "inventory": {
+    "total": 300000000.0,
+    "unsoulboundTotal": 240000000.0
+   },
+   "accessories": {
+    "total": 250000000.0,
+    "unsoulboundTotal": 200000000.0
+   },
+   "pets": {
+    "total": 180000000.0,
+    "unsoulboundTotal": 144000000.0
+   },
+   "wardrobe": {
+    "total": 90000000.0,
+    "unsoulboundTotal": 72000000.0
+   },
+   "enderchest": {
+    "total": 60000000.0,
+    "unsoulboundTotal": 48000000.0
+   },
+   "sacks": {
+    "total": 20000000.0,
+    "unsoulboundTotal": 16000000.0
+   },
+   "essence": {
+    "total": 5000000.0,
+    "unsoulboundTotal": 4000000.0
+   }
+  },
+  "noInventory": false,
+  "isNonCosmetic": false
+ },
+ "nonCosmetic": {
+  "networth": 1250000000,
+  "unsoulboundNetworth": 1000000000,
+  "types": {}
+ }
+}

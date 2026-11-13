@@ -1,0 +1,292 @@
+{
+ "stats": [
+  {
+   "id": "health",
+   "name": "Health",
+   "nameShort": "Health",
+   "symbol": "",
+   "color": "c",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 100,
+    "armor": 1500,
+    "skills": 600,
+    "pet": 382,
+    "total": 2582
+   },
+   "suffix": ""
+  },
+  {
+   "id": "defense",
+   "name": "Defense",
+   "nameShort": "Defense",
+   "symbol": "",
+   "color": "a",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 100,
+    "total": 868
+   },
+   "suffix": ""
+  },
+  {
+   "id": "strength",
+   "name": "Strength",
+   "nameShort": "Strength",
+   "symbol": "",
+   "color": "c",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 100,
+    "total": 478
+   },
+   "suffix": ""
+  },
+  {
+   "id": "speed",
+   "name": "Speed",
+   "nameShort": "Speed",
+   "symbol": "",
+   "color": "f",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 100,
+    "total": 152
+   },
+   "suffix": ""
+  },
+  {
+   "id": "critical_chance",
+   "name": "Crit Chance",
+   "nameShort": "Crit Chance",
+   "symbol": "",
+   "color": "9",
+   "category": "combat",
+   "description": "",
+   "percent": true,
+   "statsInfo": {
+    "base": 100,
+    "total": 118
+   },
+   "suffix": "%"
+  },
+  {
+   "id": "critical_damage",
+   "name": "Crit Damage",
+   "nameShort": "Crit Damage",
+   "symbol": "",
+   "color": "9",
+   "category": "combat",
+   "description": "",
+   "percent": true,
+   "statsInfo": {
+    "base": 100,
+    "total": 280
+   },
+   "suffix": "%"
+  },
+  {
+   "id": "bonus_attack_speed",
+   "name": "Bonus Attack Speed",
+   "nameShort": "Bonus Attack Speed",
+   "symbol": "",
+   "color": "e",
+   "category": "combat",
+   "description": "",
+   "percent": true,
+   "statsInfo": {
+    "base": 0,
+    "total": 0
+   },
+   "suffix": "%"
+  },
+  {
+   "id": "intelligence",
+   "name": "Intelligence",
+   "nameShort": "Intelligence",
+   "symbol": "",
+   "color": "b",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 100,
+    "total": 423
+   },
+   "suffix": ""
+  },
+  {
+   "id": "sea_creature_chance",
+   "name": "Sea Creature Chance",
+   "nameShort": "Sea Creature Chance",
+   "symbol": "",
+   "color": "3",
+   "category": "combat",
+   "description": "",
+   "percent": true,
+   "statsInfo": {
+    "base": 20,
+    "total": 20
+   },
+   "suffix": "%"
+  },
+  {
+   "id": "magic_find",
+   "name": "Magic Find",
+   "nameShort": "Magic Find",
+   "symbol": "",
+   "color": "b",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 22,
+    "total": 22
+   },
+   "suffix": ""
+  },
+  {
+   "id": "pet_luck",
+   "name": "Pet Luck",
+   "nameShort": "Pet Luck",
+   "symbol": "",
+   "color": "d",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 50,
+    "total": 50
+   },
+   "suffix": ""
+  },
+  {
+   "id": "ferocity",
+   "name": "Ferocity",
+   "nameShort": "Ferocity",
+   "symbol": "",
+   "color": "c",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 0,
+    "total": 0
+   },
+   "suffix": ""
+  },
+  {
+   "id": "ability_damage",
+   "name": "Ability Damage",
+   "nameShort": "Ability Damage",
+   "symbol": "",
+   "color": "c",
+   "category": "combat",
+   "description": "",
+   "percent": true,
+   "statsInfo": {
+    "base": 30,
+    "total": 30
+   },
+   "suffix": "%"
+  },
+  {
+   "id": "true_defense",
+   "name": "True Defense",
+   "nameShort": "True Defense",
+   "symbol": "",
+   "color": "f",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 45,
+    "total": 45
+   },
+   "suffix": ""
+  },
+  {
+   "id": "health_regen",
+   "name": "Health Regen",
+   "nameShort": "Health Regen",
+   "symbol": "",
+   "color": "c",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 100,
+    "total": 100
+   },
+   "suffix": ""
+  },
+  {
+   "id": "vitality",
+   "name": "Vitality",
+   "nameShort": "Vitality",
+   "symbol": "",
+   "color": "4",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 100,
+    "total": 100
+   },
+   "suffix": ""
+  },
+  {
+   "id": "mending",
+   "name": "Mending",
+   "nameShort": "Mending",
+   "symbol": "",
+   "color": "a",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 100,
+    "total": 100
+   },
+   "suffix": ""
+  },
+  {
+   "id": "mining_speed",
+   "name": "Mining Speed",
+   "nameShort": "Mining Speed",
+   "symbol": "",
+   "color": "6",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 100,
+    "total": 1450
+   },
+   "suffix": ""
+  },
+  {
+   "id": "mining_fortune",
+   "name": "Mining Fortune",
+   "nameShort": "Mining Fortune",
+   "symbol": "",
+   "color": "6",
+   "category": "combat",
+   "description": "",
+   "percent": false,
+   "statsInfo": {
+    "base": 100,
+    "total": 320
+   },
+   "suffix": ""
+  }
+ ]
+}
